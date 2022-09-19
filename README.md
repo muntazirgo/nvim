@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-![neovim screenshot](/home/archcraft/.config/nvim/screenshots/Screenshot_2022-09-19-12-05-08_1920x1080.png)
+![neovim screenshot](https://github.com/muntazirgo/nvim/blob/master/screenshots/Screenshot_2022-09-19-12-05-08_1920x1080.png)
 
-![neovim screenshot](/home/archcraft/.config/nvim/screenshots/Screenshot_2022-09-19-12-07-00_1920x1080.png)
+![neovim screenshot](https://github.com/muntazirgo/nvim/blob/master/screenshots/Screenshot_2022-09-19-12-07-00_1920x1080.png)
 
 **NOTE:** (To see The full list of screenshots See the screenshots directory)
 ## Try out this config
