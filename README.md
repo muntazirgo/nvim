@@ -1,5 +1,12 @@
 # My Neovim Config
 
+## Screenshots
+
+![neovim screenshot](/home/archcraft/.config/nvim/screenshots/Screenshot_2022-09-19-12-05-08_1920x1080.png)
+
+![neovim screenshot](/home/archcraft/.config/nvim/screenshots/Screenshot_2022-09-19-12-07-00_1920x1080.png)
+
+**NOTE:** (To see The full list of screenshots See the screenshots directory)
 ## Try out this config
 
 Make sure to remove or backup your current `nvim` directory
@@ -13,6 +20,7 @@ Run `nvim` and wait for the plugins to be installed
 **NOTE:** (You will notice treesitter pulling in a bunch of parsers the next time you open Neovim)
 
 ## Some Dependencies
+
 - ripgrep
 - flake8
 - prettier
@@ -21,9 +29,12 @@ Run `nvim` and wait for the plugins to be installed
 - shellcheck
 - shfmt
 - pyright
-``` sh
+
+```sh
 sudo pacman -S $dependency
 ```
+**NOTE:** (Replace $dependency with the package name from the dependencies list)
+
 ## Get healthy
 
 Open `nvim` and enter the following:
